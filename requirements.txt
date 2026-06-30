@@ -1,0 +1,13 @@
+streamlit
+matplotlib
+pandas
+numpy
+plotly
+PyPDF2
+python-dotenv
+google-generativeai
+reportlab
+scikit-learn
+torch
+transformers
+sentencepiece
