@@ -123,27 +123,53 @@ streamlit run app.py
 
 ---
 
-# 📷 Screenshots
+## 📷 Screenshots
 
-### Home Page
+### 🏠 Dashboard
 
-(Add Screenshot)
+![Dashboard](screenshots/dashboard.png)
 
-### Resume Analysis
+---
 
-(Add Screenshot)
+### 🛠️ Skills Analysis
 
-### ATS Score
+![Skills Analysis](screenshots/skills_analysis.png)
 
-(Add Screenshot)
+---
 
-### Skills Analysis
+### 💡 AI Resume Suggestions
 
-(Add Screenshot)
+![Resume Suggestions](screenshots/resume_suggestions.png)
 
-### PDF Report
+---
 
-(Add Screenshot)
+### 🎯 Interview Questions
+
+![Interview Questions](screenshots/interview_questions.png)
+
+---
+
+### 🎤 AI Mock Interview
+
+![Mock Interview](screenshots/mock_interview.png)
+
+---
+
+### ✨ Resume Rewriter
+
+![Resume Rewriter](screenshots/resume_rewriter.png)
+
+---
+
+### 📝 Cover Letter Generator
+
+![Cover Letter](screenshots/cover_letter.png)
+
+---
+
+### 📄 Professional PDF Report
+
+![PDF Report](screenshots/pdf_report.png)
 
 ---
 
