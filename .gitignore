@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+.env
+Resume_Analysis_Report.pdf
